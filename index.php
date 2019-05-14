@@ -41,7 +41,7 @@
 </nav>
 	<div class="container">
 
-		<div style="background-image: url('/img/hotels.jpg'); width:100%;height: 600px; ">
+		<div style="background-image: url(HOLOX/img/hotels.jpg); width:100%;height: 600px; ">
 	</div>
 </body>
 </html>
